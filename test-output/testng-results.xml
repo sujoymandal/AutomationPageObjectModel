@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="56082" started-at="2018-12-27T17:51:20Z" finished-at="2018-12-27T17:52:16Z">
+  <suite name="Suite" duration-ms="45126" started-at="2019-01-20T15:52:09Z" finished-at="2019-01-20T15:52:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="56082" started-at="2018-12-27T17:51:20Z" finished-at="2018-12-27T17:52:16Z">
-      <class name="com.PageObjectModel.TestCases.VoyageTest">
-        <test-method status="PASS" signature="gotoVeselMaster()[pri:0, instance:com.PageObjectModel.TestCases.VoyageTest@462d5aee]" name="gotoVeselMaster" duration-ms="56052" started-at="2018-12-27T17:51:20Z" finished-at="2018-12-27T17:52:16Z">
+    <test name="Test" duration-ms="45126" started-at="2019-01-20T15:52:09Z" finished-at="2019-01-20T15:52:54Z">
+      <class name="com.PageObjectModel.TestCases.OperationTest">
+        <test-method status="PASS" signature="gotoOperational()[pri:0, instance:com.PageObjectModel.TestCases.OperationTest@6a1aab78]" name="gotoOperational" duration-ms="44596" started-at="2019-01-20T15:52:09Z" finished-at="2019-01-20T15:52:53Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- gotoVeselMaster -->
-      </class> <!-- com.PageObjectModel.TestCases.VoyageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- gotoOperational -->
+      </class> <!-- com.PageObjectModel.TestCases.OperationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

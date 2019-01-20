@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.PageObjectModel.TestCases.VoyageTest">
+      <class name="com.PageObjectModel.TestCases.OperationTest">
         <methods>
-          <include name="gotoVeselMaster"/>
+          <include name="gotoOperational"/>
         </methods>
-      </class> <!-- com.PageObjectModel.TestCases.VoyageTest -->
+      </class> <!-- com.PageObjectModel.TestCases.OperationTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

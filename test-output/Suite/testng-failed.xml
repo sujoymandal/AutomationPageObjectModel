@@ -12,6 +12,11 @@
           <include name="test_gotoContacts"/>
         </methods>
       </class> <!-- com.PageObjectModel.TestCases.HomePageTest -->
+      <class name="com.PageObjectModel.TestCases.VoyageTest">
+        <methods>
+          <include name="gotoVeselMaster"/>
+        </methods>
+      </class> <!-- com.PageObjectModel.TestCases.VoyageTest -->
       <class name="com.PageObjectModel.TestCases.ContactPageTest">
         <methods>
           <include name="test_createNewContact"/>

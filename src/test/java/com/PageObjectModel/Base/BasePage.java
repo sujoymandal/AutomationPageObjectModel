@@ -78,7 +78,10 @@ public class BasePage {
 		// driver.manage().timeouts().implicitlyWait(6, TimeUnit.SECONDS);
 		driver.get(prop.getProperty("URL"));
 		log.debug("Launched the  " + prop.getProperty("URL"));
-		testExecution("test_login");
+		//testExecution("test_login");
+		driver.findElement(By.xpath("//*[text()='User Name']/following-sibling::div/input")).sendKeys("raypk");
+		driver.findElement(By.xpath("//*[text()='Password']/following-sibling::div/input")).sendKeys("Homeserver@123");
+		driver.findElement(By.xpath("//input[@type='submit' and @value='Login']")).click();
 	}
 
 	public static void clickOnElement(WebElement element) {
@@ -186,7 +189,8 @@ public class BasePage {
 	}
 
 	public static void tearDown() {
-		testExecution("gotoLogout");
+		//testExecution("gotoLogout");
+		driver.findElement(By.xpath("//a[text()='Logout']")).click();
 		driver.quit();
 		log.debug("Browser closed...");
 	}

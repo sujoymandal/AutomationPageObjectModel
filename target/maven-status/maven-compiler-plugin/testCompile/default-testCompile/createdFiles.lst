@@ -1,11 +1,8 @@
 com\PageObjectModel\Base\BasePage.class
 com\PageObjectModel\Utilities\TestUtil.class
 com\PageObjectModel\Pages\ContactsPage.class
-com\PageObjectModel\TestCases\VoyageTest.class
 com\PageObjectModel\Utilities\ExcelReader.class
 com\PageObjectModel\Utilities\RoughWork.class
-com\PageObjectModel\TestCases\ContactPageTest.class
 com\PageObjectModel\Utilities\ExtentManager.class
-com\PageObjectModel\TestCases\HomePageTest.class
 com\PageObjectModel\Listeners\CustomListener.class
 com\PageObjectModel\TestCases\OperationTest.class
