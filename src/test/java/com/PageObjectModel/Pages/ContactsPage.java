@@ -9,6 +9,7 @@ import com.PageObjectModel.Base.BasePage;
 public class ContactsPage extends BasePage{
 	
 	//doing through egit
+	//now doing some another change
 	public void createNewContact(){
 		
 		driver.switchTo().frame("mainpanel");
