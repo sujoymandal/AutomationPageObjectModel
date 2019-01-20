@@ -23,7 +23,7 @@ public class OperationTest extends BasePage{
 //		Window	window	NA	switch
 //		Contact	id	txtContractNo	sendKeys
 
-		
+		//change for check
 		initialization();
 		
 		Thread.sleep(3000);
