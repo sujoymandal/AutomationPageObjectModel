@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56082" started-at="2018-12-27T17:51:20Z" finished-at="2018-12-27T17:52:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56082" started-at="2018-12-27T17:51:20Z" finished-at="2018-12-27T17:52:16Z">
+      <class name="com.PageObjectModel.TestCases.VoyageTest">
+        <test-method status="PASS" signature="gotoVeselMaster()[pri:0, instance:com.PageObjectModel.TestCases.VoyageTest@462d5aee]" name="gotoVeselMaster" duration-ms="56052" started-at="2018-12-27T17:51:20Z" finished-at="2018-12-27T17:52:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoVeselMaster -->
+      </class> <!-- com.PageObjectModel.TestCases.VoyageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

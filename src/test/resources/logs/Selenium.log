@@ -1,0 +1,25 @@
+14:23:53,336 DEBUG devpinoyLogger:57 - Chrome Launched....
+14:24:02,108 DEBUG devpinoyLogger:70 - Launched the  https://www.freecrm.com/index.html
+14:24:11,075 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:24:11,076 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:24:11,078 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:24:11,079 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:24:11,079 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/D:/Rintu/repositary/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:24:13,641 DEBUG devpinoyLogger:87 - Browser closed...
+14:24:16,859 DEBUG devpinoyLogger:57 - Chrome Launched....
+14:24:25,381 DEBUG devpinoyLogger:70 - Launched the  https://www.freecrm.com/index.html
+14:24:42,489 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:24:42,489 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:24:42,489 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:24:42,490 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:24:42,490 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/D:/Rintu/repositary/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:24:43,432 DEBUG devpinoyLogger:87 - Browser closed...
+14:24:46,731 DEBUG devpinoyLogger:57 - Chrome Launched....
+14:24:57,550 DEBUG devpinoyLogger:70 - Launched the  https://www.freecrm.com/index.html
+14:24:57,550 DEBUG devpinoyLogger:32 - Inside Logout Test...
+14:25:14,143 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:25:14,143 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:25:14,144 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:25:14,144 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:25:14,144 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/D:/Rintu/repositary/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:25:15,160 DEBUG devpinoyLogger:87 - Browser closed...

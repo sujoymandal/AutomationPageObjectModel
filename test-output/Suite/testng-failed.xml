@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.PageObjectModel.Listeners.CustomListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.PageObjectModel.TestCases.HomePageTest">
+        <methods>
+          <include name="test_Logo"/>
+          <include name="test_gotoContacts"/>
+        </methods>
+      </class> <!-- com.PageObjectModel.TestCases.HomePageTest -->
+      <class name="com.PageObjectModel.TestCases.ContactPageTest">
+        <methods>
+          <include name="test_createNewContact"/>
+        </methods>
+      </class> <!-- com.PageObjectModel.TestCases.ContactPageTest -->
+      <class name="com.PageObjectModel.TestCases.OperationTest">
+        <methods>
+          <include name="gotoOperational"/>
+        </methods>
+      </class> <!-- com.PageObjectModel.TestCases.OperationTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
