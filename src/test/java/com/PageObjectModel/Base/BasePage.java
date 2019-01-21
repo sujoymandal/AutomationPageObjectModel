@@ -80,7 +80,7 @@ public class BasePage {
 		log.debug("Launched the  " + prop.getProperty("URL"));
 		//testExecution("test_login");
 		driver.findElement(By.xpath("//*[text()='User Name']/following-sibling::div/input")).sendKeys("raypk");
-		driver.findElement(By.xpath("//*[text()='Password']/following-sibling::div/input")).sendKeys("Homeserver@123");
+		driver.findElement(By.xpath("//*[text()='Password']/following-sibling::div/input")).sendKeys("");
 		driver.findElement(By.xpath("//input[@type='submit' and @value='Login']")).click();
 	}
 
